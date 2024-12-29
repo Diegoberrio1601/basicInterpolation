@@ -6,6 +6,8 @@ Este repositorio muestra un ejemplo práctico del uso de la API `Animated` de Re
 - Rotación continua de 360 grados.
 - Movimiento en los ejes X e Y con interpolaciones suaves.
 
+![Demostración de la animación](assets/gitAnimated.gif)
+
 ## Características
 
 - **Transiciones suaves:** Interpolaciones configuradas para rotaciones y desplazamientos.
